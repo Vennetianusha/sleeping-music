@@ -1,0 +1,91 @@
+.bg-container{
+  background-image: url("https://new-assets.ccbp.in/frontend/static-website/moon-stars-bg.png");
+  height:100vh;
+  background-size: cover;
+  padding:40px;
+}
+.head-1{
+  color:white;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 80px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.para-1{
+  color:white;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+.card-1{
+  border-radius: 10px;
+  text-align: center;
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+  height:250px;
+  width:400px;
+  margin-left: 15px;
+  background-size: cover;
+}
+.head-2{
+  color:white;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 25px;
+  margin-right: 25px;
+  padding-bottom: 60px;
+}
+.button{
+    font-size: 13px;
+    height: 30px;
+    width: 110px;
+    font-family: "roboto";
+    border: 0px;
+    border-radius: 50px;
+    background-color: #8e97fd;
+    color:white;
+    margin-bottom: 50px;
+    
+}
+.bg2{
+  background-color: #03174c;
+  height:100vh;
+  background-size: cover;
+}
+.img1{
+  border-radius: 2px;
+  height: 40vh;
+  width: 65vh;
+}
+.head-3{
+  color:white;
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  padding-top: 13px;
+  padding-left: 30px;
+  font-size: 25px;
+}
+.head-4{
+  color:white;
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  padding-left: 30px;
+  font-size: 15px;
+  padding-right: 55px;
+}
+.para-2{
+  color:#98a1bd;
+  padding-left: 30px;
+}
+.para-3{
+  color:#98a1bd;
+  padding-left: 30px;
+  font-size: 15px;
+  padding-right: 55px;
+}
+.img2{
+  border-radius: 8px;
+  width: 200px;
+  height:125px;
+  margin:10px;
+}
+
